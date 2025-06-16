@@ -51,8 +51,9 @@ Using only minimal input from a commercial MR headset, CLONE significantly impro
 
 - \[x\] Release the paper with demos.
 - \[ \] Release checkpoints(which we used for real-world deployment).
-- \[ \] Release real-world deployment blogs.
+- \[ \] Release blogs for real-world deployment.
 - \[ \] Release training code.
+- \[ \] Release blogs real-world deployment.
 - \[ \] Full release and further updates.
 
 
