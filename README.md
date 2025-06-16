@@ -2,7 +2,7 @@
 <div id="top" align="left">
 
 [![arxiv](https://img.shields.io/badge/arXiv%202506.08931-red?logo=arxiv)](https://arxiv.org/abs/2506.08931)
-[![github](https://img.shields.io/badge/Project-0065D3?logo=rocket&logoColor=white)](https://github.com/humanoid-clone/CLONE/)
+[![github](https://img.shields.io/badge/Project-0065D3?logo=rocket&logoColor=white)](https://humanoid-clone.github.io/)
 [![doc](https://img.shields.io/badge/Document-FFA500?logo=readthedocs&logoColor=white)](https://github.com/humanoid-clone/CLONE/blob/main/README.md)
 [![video-en](https://img.shields.io/badge/Video-Vimeo-D33847)](https://player.vimeo.com/video/1092360484?h=1c4f4e6711)
 [![blogs](https://img.shields.io/badge/Blogs-Deployment-da282a)](https://yutang-lin.github.io/blog/)
