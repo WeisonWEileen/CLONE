@@ -50,10 +50,10 @@ Using only minimal input from a commercial MR headset, CLONE significantly impro
 ## 📝 TODO List
 
 - \[x\] Release the paper with demos.
-- \[\] Release checkpoints(which we used for real-world deployment).
-- \[\] Release real-world deployment blogs.
-- \[\] Release training code.
-- \[\] Full release and further updates.
+- \[ \] Release checkpoints(which we used for real-world deployment).
+- \[ \] Release real-world deployment blogs.
+- \[ \] Release training code.
+- \[ \] Full release and further updates.
 
 
 ## 🔗 Citation
