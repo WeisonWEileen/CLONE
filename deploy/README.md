@@ -1,6 +1,9 @@
 # Real-World Deployment
+**If you encountered errors caused by our code when following steps below, please inform us in issues and we'll try fix it asap.**
 
-## Hardware Setup
+---
+
+## 0. Hardware Setup
 
 | **Component**            | **Specification**         |
 |--------------------------|---------------------------|
