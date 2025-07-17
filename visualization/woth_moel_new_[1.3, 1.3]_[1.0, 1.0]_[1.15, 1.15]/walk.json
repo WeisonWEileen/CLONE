@@ -1,8 +1,0 @@
-{
-    "Layer0 Expert 0": "Counter({1: 1035, 0: 543, 3: 198, 2: 131})",
-    "Layer0 Expert 1": "Counter({0: 1030, 1: 545, 2: 205, 3: 127})",
-    "Layer1 Expert 0": "Counter({3: 944, 1: 619, 2: 204, 0: 140})",
-    "Layer1 Expert 1": "Counter({2: 1002, 0: 643, 3: 183, 1: 79})",
-    "Layer2 Expert 0": "Counter({1: 864, 2: 733, 3: 264, 0: 46})",
-    "Layer2 Expert 1": "Counter({3: 858, 0: 710, 1: 337, 2: 2})"
-}
