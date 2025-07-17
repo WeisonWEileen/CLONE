@@ -12,6 +12,8 @@
 
 ## 🔥 News
 
+- \[2025-07\] We release CLONE's early checkpoint and [deploy documen](https://github.com/humanoid-clone/CLONE/blob/main/deploy/README.md)t.
+
 - \[2025-06\] We release the [paper](https://arxiv.org/abs/2506.08931) and [demos]().
 
 
@@ -50,8 +52,10 @@ Using only minimal input from a commercial MR headset, CLONE significantly impro
 ## 📝 TODO List
 
 - \[x\] Release the paper with demos.
-- \[ \] Release checkpoints(which we used for real-world deployment).
-- \[ \] Release blogs for real-world deployment.
+- \[x\] Release early checkpoints(used for real-world deployment).
+- \[x\] Release instructions for real-world deployment.
+- \[ \] Release enhanced checkpoints.
+- \[ \] Release evaluation checkpoints.
 - \[ \] Release training code.
 - \[ \] Full release and further updates.
 

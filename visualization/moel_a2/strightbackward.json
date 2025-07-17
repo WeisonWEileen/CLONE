@@ -1,0 +1,12 @@
+{
+    "Layer0 Expert 0": "Counter({2: 1902, 3: 404, 0: 65, 1: 7})",
+    "Layer0 Expert 1": "Counter({0: 1900, 1: 398, 2: 62, 3: 18})",
+    "Layer1 Expert 0": "Counter({0: 1492, 3: 502, 1: 211, 2: 173})",
+    "Layer1 Expert 1": "Counter({3: 1425, 0: 418, 1: 270, 2: 265})",
+    "Layer2 Expert 0": "Counter({1: 845, 3: 661, 2: 593, 0: 279})",
+    "Layer2 Expert 1": "Counter({1: 1106, 3: 734, 2: 420, 0: 118})",
+    "Layer3 Expert 0": "Counter({2: 1488, 3: 623, 1: 201, 0: 66})",
+    "Layer3 Expert 1": "Counter({3: 1659, 2: 652, 1: 34, 0: 33})",
+    "Layer4 Expert 0": "Counter({1: 1736, 3: 413, 0: 184, 2: 45})",
+    "Layer4 Expert 1": "Counter({0: 1694, 2: 367, 1: 224, 3: 93})"
+}
