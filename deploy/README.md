@@ -59,6 +59,8 @@ Copy contents of `deploy/onboard` to G1's PC2. Edit `localization_server.sh`'s f
 ```bash
 cd <PATH_TO_YOUR_FAST_LIO_LOCALIZATION_FOLDER>
 ```
+### FAQ
+If you encountered **missing files** such as `localization_mid360.launch` or `mid360.yaml`, check `deploy/onboard/launch` for onboard **ROS launch files** and `deploy/onboard/misc` for `mid360.yaml` and **PCD process file**.
 
 ---
 
