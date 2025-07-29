@@ -43,3 +43,4 @@ hydra-core
 pytorch3d
 dex_retargeting==0.1.1
 pytorch_kinematics
+cyclonedds
