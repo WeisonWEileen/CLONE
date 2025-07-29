@@ -17,7 +17,7 @@ import torch
 
 def quaternion_conjugate(q):
     # q: [B, 4] = [x, y, z, w]
-    # 共轭：q* = [-x, -y, -z, w]
+    # Conjugate: q* = [-x, -y, -z, w]
     x, y, z, w = q.unbind(dim=-1)
     return torch.stack([-x, -y, -z, w], dim=-1)
 
@@ -34,17 +34,17 @@ def quaternion_mul(q1, q2):
     return torch.stack([x, y, z, w], dim=-1)
 
 def rotate_quaternion(A, B):
-    # 使用B表示的旋转作用于A: Q = B * A * B*
+    # Apply rotation represented by B to A: Q = B * A * B*
     B_conj = quaternion_conjugate(B)
     return quaternion_mul(quaternion_mul(B, A), B_conj)
 
-# 示例
+# Example
 if __name__ == "__main__":
-    # 假设A和B为[B,4], 且为单位四元数
-    A = torch.tensor([[0.0, 0.0, 0.0, 1.0],    # 单位四元数 (无旋转)
-                      [0.0, 0.7071, 0.0, 0.7071]]) # 约90度绕y轴旋转
-    B = torch.tensor([[0.7071, 0.0, 0.0, 0.7071],  # 约90度绕x轴旋转
-                      [0.0, 0.0, 0.7071, 0.7071]]) # 约90度绕z轴旋转
+    # Assume A and B are [B,4] and are unit quaternions
+    A = torch.tensor([[0.0, 0.0, 0.0, 1.0],    # Unit quaternion (no rotation)
+                      [0.0, 0.7071, 0.0, 0.7071]]) # Approximately 90 degrees rotation around y-axis
+    B = torch.tensor([[0.7071, 0.0, 0.0, 0.7071],  # Approximately 90 degrees rotation around x-axis
+                      [0.0, 0.0, 0.7071, 0.7071]]) # Approximately 90 degrees rotation around z-axis
 
     Q = rotate_quaternion(A, B)
     print(Q)

@@ -215,7 +215,7 @@ class ImageClient:
                                 np.copyto(self.color_array, color_image)
                                 if self.pad_array is not None:
                                     self.pad_array.fill(0)
-                                    # 计算填充位置（居中）
+                                    # Calculate padding position (center)
                                     pad_top = (self.pad_shape[0] - self.img_shape[0]) // 2
                                     pad_left = (self.pad_shape[1] - self.img_shape[1]) // 2
                                     self.pad_array[pad_top:pad_top + self.img_shape[0], pad_left:pad_left + self.img_shape[1]] = color_image
