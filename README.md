@@ -54,6 +54,7 @@ Using only minimal input from a commercial MR headset, CLONE significantly impro
 - \[x\] Release the paper with demos.
 - \[x\] Release early checkpoints(used for real-world deployment).
 - \[x\] Release instructions for real-world deployment.
+- \[ \] Release training and inference code with [**Roboverse**](https://github.com/RoboVerseOrg/RoboVerse).
 - \[ \] Release enhanced checkpoints.
 - \[ \] Release evaluation code.
 - \[ \] Release training code.
@@ -81,7 +82,7 @@ This project is released under [CC BY-NC 4.0 license](https://creativecommons.or
 
 
 ## 👏 Acknowledgements
-
+- [RoboVerse](https://github.com/RoboVerseOrg/RoboVerse): Together with the RoboVerse team, we release the training and inference code.
 - [PHC](https://github.com/ZhengyiLuo/PHC): We use PHC for reference motion retargeting.
 - [OmniH2O](https://github.com/LeCAR-Lab/human2humanoid): We use OmniH2O as our codebase.
 - [FAST_LIO](https://github.com/LeCAR-Lab/human2humanoid): We use the FAST_LIO as the Lidar Odometry.
