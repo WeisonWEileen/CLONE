@@ -84,7 +84,7 @@ pip install -e .
 1. **On G1 PC2:** Start LiDAR odometry  
    ```bash
    cd <PATH_TO_ONBOARD_FILES>
-   bash localization.bash
+   bash localization_server.sh
    ```
 2. **On Apple Vision Pro:** (for `avp_stream` users) Launch Tracking Streamer 
 3. **On Server PC:** Run command publisher for 1kHz relay.
