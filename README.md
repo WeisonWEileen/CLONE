@@ -72,14 +72,8 @@ If you find our work helpful, please cite:
   journal={arXiv preprint arXiv:2506.08931}, 
   year={2025}
 }
-
-@inproceedings{geng2025roboverse,
-  title={RoboVerse: Towards a unified platform, dataset and benchmark for scalable and generalizable robot learning},
-  author={Geng, Haoran and Wang, Feishi and Wei, Songlin and Li, Yuyang and Wang, Bangjun and An, Boshi and Cheng, Charlie Tianyue and Lou, Haozhe and Li, Peihao and Wang, Yen-Jen and others},
-  booktitle={Robotics: Science and Systems (RSS)},
-  year={2025}
-}
 ```
+You may also find CLONE's implementation in [RoboVerse](https://github.com/RoboVerseOrg/RoboVerse).
 
 </details>
 
