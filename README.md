@@ -12,7 +12,7 @@
 
 ## 🔥 News
 
-- \[2025-07\] CLONE is ACCEPTED by [CoRL](https://www.corl.org)!
+- \[2025-08\] CLONE is accepted by [CoRL](https://www.corl.org)!
 
 - \[2025-07\] We release CLONE's early checkpoint and [deploy document](https://github.com/humanoid-clone/CLONE/blob/main/deploy/README.md).
 
