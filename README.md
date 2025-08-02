@@ -12,6 +12,8 @@
 
 ## 🔥 News
 
+- \[2025-07\] CLONE is ACCEPTED by [CoRL](https://www.corl.org)!
+
 - \[2025-07\] We release CLONE's early checkpoint and [deploy document](https://github.com/humanoid-clone/CLONE/blob/main/deploy/README.md).
 
 - \[2025-06\] We release the [paper](https://arxiv.org/abs/2506.08931) and [demos]().
@@ -56,7 +58,6 @@ Using only minimal input from a commercial MR headset, CLONE significantly impro
 - \[x\] Release instructions for real-world deployment.
 - \[ \] Release training and inference code with [**Roboverse**](https://github.com/RoboVerseOrg/RoboVerse).
 - \[ \] Release enhanced checkpoints.
-- \[ \] Release evaluation code.
 - \[ \] Release training code.
 - \[ \] Full release and further updates.
 
