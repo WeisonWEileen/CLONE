@@ -84,7 +84,7 @@ This project is released under [CC BY-NC 4.0 license](https://creativecommons.or
 
 ## 👏 Acknowledgements
 - [RoboVerse](https://github.com/RoboVerseOrg/RoboVerse): Together with the RoboVerse team, we release the training and inference code.
-  - Thanks to [Tianyue Cheng](https://charlietcheng.github.io/) for providing the Docker version of this project.
+  - Thanks to [Charlie Cheng](https://charlietcheng.github.io/) for providing the Docker version of this project.
 - [PHC](https://github.com/ZhengyiLuo/PHC): We use PHC for reference motion retargeting.
 - [OmniH2O](https://github.com/LeCAR-Lab/human2humanoid): We use OmniH2O as our codebase.
 - [FAST_LIO](https://github.com/LeCAR-Lab/human2humanoid): We use the FAST_LIO as the Lidar Odometry.
