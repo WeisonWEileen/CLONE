@@ -1,6 +1,8 @@
 # Real-World Deployment
 **If you encountered errors caused by our code when following steps below, please inform us in issues and we'll try fix it asap.**
 
+checkout [Docker_README.md](Docker_README.md) for quick & simpler installation with Docker.
+
 ---
 
 ## 0. Hardware Setup
