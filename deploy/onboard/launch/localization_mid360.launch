@@ -20,7 +20,7 @@
 		
 	</node>
 
-	<arg name="map" default="/home/unitree/teleoperation/nav/rosws/FAST_LIO_WS/src/FAST_LIO/PCD/scans.pcd" />
+	<!-- <arg name="map" default="/home/unitree/teleoperation/nav/rosws/FAST_LIO_WS/src/FAST_LIO/PCD/scans.pcd" /> -->
 	
 	<!-- loalization-->
     <node pkg="fast_lio_localization" type="global_localization.py" name="global_localization" output="screen">
@@ -32,11 +32,12 @@
 		<param name="use_bag_time" value="$(arg use_bag_time)" />
 	</node>
 
+	<!-- 
 	<include file="$(find fast_lio_localization)/launch/read_pcd_publish.launch">
 		<arg name="pcd_file_path" value="/home/unitree/teleoperation/nav/rosws/FAST_LIO_WS/src/FAST_LIO/PCD/scans.pcd" />
         <arg name="publish_topic" value="/map3d" />
 		<arg name="use_bag_time" value="$(arg use_bag_time)" />
-  	</include>
+  	</include> -->
 
 	<!-- glbal map-->
     <!-- <node pkg="pcl_ros" type="pcd_to_pointcloud" name="map_publishe" output="screen"
