@@ -383,8 +383,8 @@ class DeployNode(Node):
 
         # start
         self.start_time = time.monotonic()
-        self.get_logger().info("Press L2 to start policy")
-        self.get_logger().info("Press L1 for emergent stop")
+        self.get_logger().info("Press L1 to start policy")
+        self.get_logger().info("Press L2 for emergent stop")
         self.init_buffer = 0
         self.foot_contact_buffer = []
         self.time_hist = []
