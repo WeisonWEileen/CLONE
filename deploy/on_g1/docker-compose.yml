@@ -1,6 +1,8 @@
 services:
   livox-driver:
-    build: .
+    build:
+      context: ..  # 将构建上下文改为项目根目录
+      dockerfile: on_g1/Dockerfile
     image: livox-ros-driver:latest
     container_name: on-g1
     network_mode: host
